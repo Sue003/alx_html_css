@@ -2,8 +2,7 @@ body{
    flex-direction: column;
     display: flex;
     border: 2px solid black;
-    color: aqua;
-    background-color: antiquewhite;
+    
 }
 main{
   display:flex;
