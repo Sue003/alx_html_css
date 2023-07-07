@@ -1,1 +1,1 @@
-In this project I will only code in html trying to copy a figma project file ![figma image](https://www.figma.com/file/Km9OTjRR65oFwzuznVZUJo/Homepage-(Copy)?type=design&node-id=0%3A1&mode=design&t=u7rHAYGxviCPJ1SV-1)
+In this project I will only code in html trying to copy a figma project file ![figma image]("C:\Users\semsi\Dropbox\PC\Downloads\screenshot_figma.png")
